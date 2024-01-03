@@ -30,7 +30,7 @@
   pip install rich
   pip install futures
   pip install requests
-  git clone https://github.com/Sabbir-787/File-CloneV2
+  git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   python FileV3.py
   ```
