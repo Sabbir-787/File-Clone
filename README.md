@@ -1,7 +1,7 @@
 <!-- FILE-CLONING -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-3-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-3.1-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Sabbir-787/File-Clone?color=red&style=for-the-badge">
@@ -32,7 +32,8 @@
   pip install requests
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
-  python FileV3.py
+  git pull
+  python FileV3.1.py
   ```
 
 
