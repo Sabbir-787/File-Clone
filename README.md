@@ -33,7 +33,7 @@
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   git pull
-  python FILE3.1.py
+  python FILE4.py
   ```
 
 
