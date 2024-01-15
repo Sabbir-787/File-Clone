@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-SN--SABBIR-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-PYTHON-darkcyan?style=flat-square">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSabbir-787%2FFile-Clone&title=Visitors&edge_flat=false"/></a>
 </p>
 
 <p align="center"><b>A beginners friendly, Automated File Cloning tool.</b></p>
