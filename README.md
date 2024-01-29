@@ -1,4 +1,7 @@
 <!-- FILE-CLONING -->
+<p align="center">
+  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot_20240129-163004.png">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-6-green?style=for-the-badge">
@@ -36,8 +39,9 @@
   git pull
   python FileV6.py
   ```
-![logo]([https://github.com/Sabbir-787/File-Clone/blob/main/20240110_161756.jpg](https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot_20240129-163004.png)https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot_20240129-163004.png)
 
 <table>
+
+<!-- // -->
 
 <!-- // -->
