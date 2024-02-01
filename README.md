@@ -1,10 +1,10 @@
 <!-- FILE-CLONING -->
 <p align="center">
-  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot_20240129-163004.png">
+  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot_20240201-165937.png">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-6.1-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-6.2-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Sabbir-787/File-Clone?color=red&style=for-the-badge">
@@ -37,7 +37,7 @@
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   git pull
-  python FileV6.1.py
+  python FileV6.2.py
   ```
 
 <table>
