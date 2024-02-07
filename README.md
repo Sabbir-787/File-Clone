@@ -29,15 +29,19 @@
   pkg install python
   pkg install git
   pkg install play-audio
+  pkg install espeak
   pip install bs4
   pip install mechanize
   pip install rich
   pip install futures
   pip install requests
+  pkg install ffmpeg
+  pip install pydub
+  pip install playsound
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   git pull
-  python FileV6.2.py
+  python FileV6.3.py
   ```
 
 <table>
