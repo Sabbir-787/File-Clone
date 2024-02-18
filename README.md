@@ -1,10 +1,10 @@
 <!-- FILE-CLONING -->
 <p align="center">
-  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot_20240207-135725.png">
+  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot.png">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-6.3-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-6.4-gray?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Sabbir-787/File-Clone?color=red&style=for-the-badge">
@@ -25,23 +25,19 @@
 
   ```
   apt update
-  apt upgrade
+  apt upgrade -y
   pkg install python
   pkg install git
-  pkg install play-audio
   pkg install espeak
   pip install bs4
   pip install mechanize
   pip install rich
   pip install futures
   pip install requests
-  pkg install ffmpeg
-  pip install pydub
-  pip install playsound
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   git pull
-  python FileV6.3.py
+  python FileV6.4.py
   ```
 
 <table>
