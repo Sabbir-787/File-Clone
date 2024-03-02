@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-6.4-gray?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-6.5-gray?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/Sabbir-787/File-Clone?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/Sabbir-787/File-Clone?color=red&style=for-the-badge">
@@ -37,7 +37,7 @@
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   git pull
-  python FileV6.4.py
+  python FileV6.5.py
   ```
 
 <table>
