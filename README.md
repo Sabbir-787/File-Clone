@@ -1,6 +1,6 @@
 <!-- FILE-CLONING -->
 <p align="center">
-  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/Screenshot.png">
+  <img src="https://github.com/Sabbir-787/File-Clone/blob/main/20240302_130615.jpg">
 </p>
 
 <p align="center">
