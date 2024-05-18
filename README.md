@@ -37,7 +37,7 @@
   git clone https://github.com/Sabbir-787/File-Clone
   cd File-Clone
   git pull
-  python FileV6.5.py
+  python MAIN.py
   ```
 
 <table>
